@@ -5,7 +5,6 @@ remote_theme: danp04/just-the-docs
 
 color_scheme: dark
 
-# logo: "/assets/images/Morris_badge.png"
 
 aux_links:
   "Source repository on GitHub":

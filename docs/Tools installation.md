@@ -1,3 +1,11 @@
+---
+layout: default
+title: Cleaning and Care
+nav_order: 2
+has_children: false
+---
+
+
 Tools installation
 # VS Code basics
 

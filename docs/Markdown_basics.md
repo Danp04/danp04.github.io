@@ -1,3 +1,10 @@
+---
+layout: default
+title: Cleaning and Care
+nav_order: 1
+has_children: false
+---
+
 Markdown_basics
 # Markdown basic functions
 Below you can find basic features of Markdown to produce your content. For more information use the links below the table.

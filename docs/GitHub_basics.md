@@ -1,3 +1,10 @@
+---
+layout: default
+title: Cleaning and Care
+nav_order: 3
+has_children: false
+---
+
 GitHub_basics
 
 # How to start working with Git?
