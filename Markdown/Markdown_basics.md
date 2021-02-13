@@ -12,8 +12,8 @@ Below you can find basic features of Markdown to produce your content. For more 
 | Emphasis|wrap asterisks (*) and underscores (_)|
 | Images|inline or reference e.g ! [text] (/path/to/img.jpg)|
 ## More information
-[Link 1] (https://daringfireball.net/projects/markdown/)
+* [daringfireball.net](https://daringfireball.net/projects/markdown/)
 
 
-[Link 2] (https://commonmark.org/help/tutorial/index.html)
+* [commonmark.org](https://commonmark.org/help/tutorial/index.html)
 
