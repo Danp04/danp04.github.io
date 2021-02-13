@@ -14,7 +14,7 @@ Git is an open source version control system which tracks all the changes you ma
 
 
 ### What is GitHub?
-GitHub is a website and Internet service which allowS to store your projects on a server - in your own repository, make changes, and collaborate with others.
+GitHub is a website and Internet service which allows to store your projects on a server - in your own repository, make changes, and collaborate with others.
 
 
 ### What is GitHub Desktop Client?
