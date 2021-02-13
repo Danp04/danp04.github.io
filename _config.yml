@@ -3,7 +3,7 @@ title: Homework
 description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
 remote_theme: danp04/just-the-docs
 
-color_scheme: dark
+color_scheme: new_color
 
 
 aux_links:
