@@ -5,8 +5,6 @@ nav_order: 4
 has_children: false
 ---
 
-GitHub basics
-
 # How to start working with Git?
 ## Definitions
 ### What is Git?
