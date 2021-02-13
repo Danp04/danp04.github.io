@@ -6,7 +6,7 @@ has_children: false
 ---
 
 
-Tools installation
+
 # VS Code basics
 
 ## Getting started
