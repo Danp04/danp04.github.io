@@ -22,13 +22,13 @@ It is a software which you can use it to manage your Git repositories locally on
 
 # Installation
 To start working with GitHub, perform the following actions:
-1. Create your account on GitHub: https://github.com/ and verify your e-mail address.
-2. Install GitHub Desktop Client on your computer:  https://desktop.github.com/.
+1. Create your account on GitHub: [Create Account](https://github.com/) and verify your e-mail address.
+2. Install GitHub Desktop Client on your computer: [GitHub Desktop Client](https://desktop.github.com/).
 
 
 # Authentication
 After you install GitHub Desktop, you can synchronize it with your own account on GitHub and configure it. If you selected two-factor authentication for GitHub you can generate your authentication code either from mobile message or an e-mail and verify your account.
-Further information you can find here: https://docs.github.com/en/github/authenticating-to-github/about-authentication-to-github.
+Further information you can find here: [docs](https://docs.github.com/en/github/authenticating-to-github/about-authentication-to-github).
 
 
 # How to create a new repository on GitHub Desktop?
@@ -52,7 +52,7 @@ As you create your first repository on GitHub Desktop, keep in mind that it only
 1. In the menu bar of GitHub Desktop select **Publish repository**. **Name** and **Description** are the same as you wrote while creating the new repository.
 2. For the needs of the project and our studies, mark **keep this code private**.
 3. Select **Publish Repository**.
-4. You can open your files in the repository on GitHub.com directly from GitHub Desktop.
+4. You can open your files in the repository on GitHub directly from GitHub Desktop.
 
 # Managing access to your repository
 
@@ -64,7 +64,7 @@ In order to invite a collaborator to your repository:
 
 # The Git’s important commands
 
-In the table below you can find useful commands being used on GitHub.com and GitHub Desktop. Familiarize with them to properly manage your workflow, add content, or make changes.
+In the table below you can find useful commands being used on GitHub and GitHub Desktop. Familiarize with them to properly manage your workflow, add content, or make changes.
 
 
 | Action | Command |GitHub Desktop Client
