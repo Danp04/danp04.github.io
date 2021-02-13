@@ -5,7 +5,7 @@ nav_order: 4
 has_children: false
 ---
 
-GitHub_basics
+GitHub basics
 
 # How to start working with Git?
 ## Definitions
@@ -32,9 +32,9 @@ Further information you can find here: [docs](https://docs.github.com/en/github/
 
 
 # How to create a new repository on GitHub Desktop?
-1.	Open GitHub Desktop on your computer. 
-2.	On a "Let's get started!" panel select **Create a New Repository on your hard drive**.
-3.	Name your repository and set its location on your computer. 
+1. Open GitHub Desktop on your computer. 
+2. On a "Let's get started!" panel select **Create a New Repository on your hard drive**.
+3. Name your repository and set its location on your computer. 
 
 It is recommended to use the shortest path, for example C: Git, as the repository is to be created inside the folder you selected for your local path. 
 
@@ -46,7 +46,7 @@ It is recommended to use the shortest path, for example C: Git, as the repositor
 5. As you fill in the blanks, select Create Repository.
 
 
-# Publishing your repository to GitHub.com
+# How to publish your repository to GitHub?
 As you create your first repository on GitHub Desktop, keep in mind that it only exists on your computer. In order to publish it to the server (GitHub), perform the following actions:
 
 1. In the menu bar of GitHub Desktop select **Publish repository**. **Name** and **Description** are the same as you wrote while creating the new repository.
