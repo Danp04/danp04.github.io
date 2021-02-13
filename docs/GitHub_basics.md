@@ -14,7 +14,7 @@ Git is an open source version control system which tracks all the changes you ma
 
 
 ### What is GitHub?
-GitHub is a website and Internet service which allow to store your projects on a server - in your own repository, make changes, and collaborate with others.
+GitHub is a website and Internet service which allowS to store your projects on a server - in your own repository, make changes, and collaborate with others.
 
 
 ### What is GitHub Desktop Client?
@@ -36,13 +36,11 @@ Further information you can find here: [docs](https://docs.github.com/en/github/
 2. On a "Let's get started!" panel select **Create a New Repository on your hard drive**.
 3. Name your repository and set its location on your computer. 
 
->It is recommended to use the shortest path, for example C: Git, as the repository is to be created inside the folder you selected for your local path. 
+> WARNING: It is recommended to use the shortest path, for example C: Git, as the repository is to be created inside the folder you selected for your local path|
 
 4. Select:
-
 * **Initialize this repository with a README**.
 * **None** in the **Git Ignore** and **License** menu.
-
 5. As you fill in the blanks, select Create Repository.
 
 
