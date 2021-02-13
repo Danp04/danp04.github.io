@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cleaning and Care
+title: Markdown basics
 nav_order: 1
 has_children: false
 ---

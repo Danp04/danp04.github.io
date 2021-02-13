@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cleaning and Care
+title: GitHub basics
 nav_order: 3
 has_children: false
 ---

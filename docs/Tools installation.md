@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cleaning and Care
+title: Tools installation
 nav_order: 2
 has_children: false
 ---
