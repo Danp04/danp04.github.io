@@ -5,7 +5,6 @@ nav_order: 3
 has_children: false
 ---
 
-
 # Markdown basic functions
 Below you can find basic features of Markdown to produce your content. For more information use the links below the table.
 
