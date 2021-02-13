@@ -8,6 +8,8 @@ permalink: /
 
 
 ## Getting started with Visual Studio Code
+
+
 ![](assets/images/code-1839406_1920.jpg)
 
 
