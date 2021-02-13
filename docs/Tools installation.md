@@ -20,11 +20,11 @@ Perform the following actions to start working:
 
 ## Frequently used commands
 Below you can find the important software settings which help properly manage your work in VS Code:
-- Commands settings: on your keyboard select *Shift+Ctrl+p* (on Windows) or *Cmd+p* (on Mac).
-- Whitespace symbols display: in the main panel select **View** > **RenderWhitespace**.
-- Document navigation: *Outline* or *Shift+Ctrl+P* on your keyboard.
-- Suggestion: on your keyboard select *Ctrl+Space*.
-- Formatting suggestions: on your keyboard select *Shift+Ctrl+P* > **Preferences: ConfigureLanguage SpecificSettings** > **Markdown** > "**editor.suggest.showWords**" and change *true* into *false*.
+- To display commands on your keyboard select *Shift+Ctrl+p* (on Windows) or *Cmd+p* (on Mac).
+- To display whitespace symbols: in the main panel select **View** > **RenderWhitespace**.
+- Document navigation: select *Outline* or *Shift+Ctrl+P* on your keyboard.
+- To display suggestion: on your keyboard select *Ctrl+Space*.
+- To format suggestions: on your keyboard select *Shift+Ctrl+P* > **Preferences: ConfigureLanguage SpecificSettings** > **Markdown** > "**editor.suggest.showWords**" and change *true* into *false*.
 
 ## Extensions
 There are many extensions available in VS Code used to facilitate your work. To create automatic table of contents use the extension **Markdown All In One**. 
