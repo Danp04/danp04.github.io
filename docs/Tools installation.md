@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Tools installation
+title: Visual Studio Code basics
 nav_order: 2
 has_children: false
 ---
 
 
 
-# VS Code basics
+# Visual Studio Code for beginners
 
 ### Table of contents
 {: .no_toc}
@@ -15,7 +15,7 @@ has_children: false
 1. TOC
 {:toc}
 
-## Getting started
+## Installation
 
 Perform the following actions to start working:
 
