@@ -6,6 +6,7 @@ has_children: false
 ---
 
 # How to start working with Git?
+{: .no_toc}
 
 ### Table of contents
 {: .no_toc}

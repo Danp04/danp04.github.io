@@ -8,6 +8,7 @@ has_children: false
 
 
 # Visual Studio Code basics
+{: .no_toc}
 
 ### Table of contents
 {: .no_toc}
