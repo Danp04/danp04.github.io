@@ -6,6 +6,13 @@ has_children: false
 ---
 
 # How to start working with Git?
+
+## Table of contents
+{: .no_toc}
+
+1. TOC
+{:toc}
+
 ## Definitions
 ### What is Git?
 Git is an open source version control system which tracks all the changes you made in your projects. Git has a remote repository which is stored on a server and a local repository which is stored on a private computer.
@@ -33,11 +40,13 @@ Further information you can find here: [docs](https://docs.github.com/en/github/
 1. Open GitHub Desktop on your computer. 
 2. On a "Let's get started!" panel select **Create a New Repository on your hard drive**.
 3. Name your repository and set its location on your computer. 
-> WARNING: It is recommended to use the shortest path, for example C: Git, as the repository is to be created inside the folder you selected for your local path|
+
+**📝 Note:** It is recommended to use the shortest path, for example C: Git, as the repository is to be created inside the folder you selected for your local path
+
 4. Select:
 * **Initialize this repository with a README**.
 * **None** in the **Git Ignore** and **License** menu.
-5. As you fill in the blanks, select Create Repository.
+5. As you fill in the blanks, select **Create Repository**.
 
 
 # How to publish your repository to GitHub?
