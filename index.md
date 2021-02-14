@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting started
+title: Techcomm popular software
 nav_order: 1
 description: Visual Studio Code - user's manual
 permalink: /
