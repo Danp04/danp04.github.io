@@ -23,9 +23,9 @@ Below you can find basic syntax to produce your content. For more information us
 
 |Syntax|Description|
 |---| --------------------
-|Headers|use # before text, for example #H1, ## H2, ### H3|
-|Paragraphs|simply one or more lines of written text|
-|Lists|ordered 1,2,3 or bullet list|
+|Headers|use # before a header of your document section, for example #H1, ## H2, ### H3|
+|Paragraphs|these are one or more lines of written text|
+|Lists|list ordered as 1,2,3 or as a bullet list|
 |Blockquotes|insert > before every line|
 |Links|[ID] (http://example.com/)|
 |Emphasis|wrap asterisks (*) and underscores (_) before a word or sentence|
