@@ -7,7 +7,7 @@ has_children: false
 
 
 
-# Visual Studio Code for beginners
+# Visual Studio Code basics
 
 ### Table of contents
 {: .no_toc}

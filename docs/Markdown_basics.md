@@ -5,7 +5,7 @@ nav_order: 3
 has_children: false
 ---
 
-# Markdown basic functions
+# Markdown basics
 {: .no_toc}
 
 
