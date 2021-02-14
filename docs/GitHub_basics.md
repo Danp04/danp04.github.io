@@ -43,9 +43,7 @@ Further information you can find here: [docs](https://docs.github.com/en/github/
 
 **📝 Note:** It is recommended to use the shortest path, for example C: Git, as the repository is to be created inside the folder you selected for your local path.
 
-4. Select:
-* **Initialize this repository with a README**.
-* **None** in the **Git Ignore** and **License** menu.
+4. Select: **Initialize this repository with a README** and **None** in the **Git Ignore** and **License** menu.
 5. As you fill in the blanks, select **Create Repository**.
 
 
