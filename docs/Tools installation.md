@@ -9,6 +9,12 @@ has_children: false
 
 # VS Code basics
 
+## Table of contents
+{: .no_toc}
+
+1. TOC
+{:toc}
+
 ## Getting started
 
 Perform the following actions to start working:

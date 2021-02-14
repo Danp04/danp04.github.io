@@ -6,7 +6,16 @@ has_children: false
 ---
 
 # Markdown basic functions
+{: .no_toc}
+
+
 Below you can find basic features of Markdown to produce your content. For more information use the links below the table.
+
+### Table of contents
+{: .no_toc}
+
+1. TOC
+{:toc}
 
 
 ## Elements
