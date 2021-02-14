@@ -8,8 +8,8 @@ has_children: false
 # Markdown basics
 {: .no_toc}
 
-
-Below you can find basic features of Markdown to produce your content. For more information use the links below the table.
+Markdown is a simple markup language that was created to simplify text formatting. Simple tags allow you to bold or italicize words and give them other formatting features defined in HTML.
+Below you can find basic syntax to produce your content. For more information use the links below the table.
 
 ### Table of contents
 {: .no_toc}
