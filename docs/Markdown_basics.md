@@ -29,7 +29,7 @@ Below you can find basic syntax to produce your content. For more information us
 |Blockquotes|insert > before every line|
 |Links|[ID] (http://example.com/)|
 |Emphasis|wrap asterisks (*) and underscores (_) before a word or sentence|
-|Images|can be inline or reference e.g ! [text] (/path/to/img.jpg)|
+|Images|can be inline or reference, for example: ! [text] (/path/to/img.jpg)|
 
 
 ## More information

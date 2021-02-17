@@ -14,7 +14,7 @@ has_children: false
 1. TOC
 {:toc}
 
-## Definitions
+# Definitions
 ### What is Git?
 Git is an open source version control system which tracks all the changes you made in your projects. Git has a remote repository which is stored on a server and a local repository which is stored on a private computer.
 
@@ -41,19 +41,17 @@ Further information you can find here: [docs](https://docs.github.com/en/github/
 1. Open GitHub Desktop on your computer. 
 2. On a "Let's get started!" panel select **Create a New Repository on your hard drive**.
 3. Name your repository and set its location on your computer.
+   
+   **📝 Note:** It is recommended to use the shortest path, for example C: Git, as the repository is to be created inside the folder you selected for your local path.
 4. Select: **Initialize this repository with a README** and **None** in the **Git Ignore** and **License** menu.
 5. As you fill in the blanks, select **Create Repository**.
-
-
-**📝 Note:** It is recommended to use the shortest path, for example C: Git, as the repository is to be created inside the folder you selected for your local path.
-
 
 
 # How to publish your repository to GitHub?
 As you create your first repository on GitHub Desktop, keep in mind that it only exists on your computer. In order to publish it to the server (GitHub), perform the following actions:
 
-1. In the menu bar of GitHub Desktop select **Publish repository**. **Name** and **Description** are the same as you wrote while creating the new repository.
-2. For the needs of the project and our studies, mark **keep this code private**.
+1. In the menu bar of GitHub Desktop select **Publish repository**. **Name** and **Description** are the same as you chose while creating the new repository.
+2. For the needs of our studies, mark **keep this code private**.
 3. Select **Publish Repository**.
 4. You can open your files in the repository on GitHub directly from GitHub Desktop.
 
@@ -62,7 +60,7 @@ As you create your first repository on GitHub Desktop, keep in mind that it only
 In order to invite a collaborator to your repository:
 
 1. Select **Settings** and **Manage access**.
-2. Invite your Vistula educators typing the user’s name account: martab0, db4rr.
+2. Invite your Vistula educators typing the user’s name account: *martab0, db4rr*.
 3. Wait for acceptance.
 
 # The Git’s important commands
