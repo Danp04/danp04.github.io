@@ -25,7 +25,7 @@ In this section you will find out how to quickly create a website directly from 
 
    ![New_repo](/assets/images/screen_1.jpg)
    
-   4. Mark **Public** and select **Create repository.**
+4. Mark **Public** and select **Create repository.**
 
 
 
