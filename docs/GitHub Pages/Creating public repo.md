@@ -1,23 +1,12 @@
 ---
 layout: default
-title: GitHub Pages
-nav_order: 5
-has_children: false
+title: How to create Github Pages public repository?
+parent: GitHub Pages
+nav_order: 1
 ---
 
-# GitHub pages
-{: .no_toc}
-In this section you will find out how to quickly create a website directly from your GitHub repository.
 
-### Table of contents
-{: .no_toc}
-
-1. TOC
-{:toc}
-
-## Creating a public repository for GitHub Pages
-
-How to create Github Pages public repository?
+# How to create Github Pages public repository?
 1. Open GitHub in the web browser and sign in to your account.
 2. Select **New repository** in the top right corner.
 3. Name the repository as *username.github.io*.  
