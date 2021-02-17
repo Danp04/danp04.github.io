@@ -18,7 +18,9 @@ Static site generator is a software which enables to create a web page from in-b
 
 
 ## What is Jekyll?
-Jekyll is a free of charge open source static site generator and a functionality of the GitHub Pages service. Jekyll simply works by applying content of your files created in Markdown to pre-defined tags. As a result, you obtain a website that can be published by any web server. Thus, you can easily manage your projects and focus more on content.
+*Jekyll* is a free of charge open source static site generator and a functionality of the GitHub Pages service. Jekyll simply works by applying content of your files created in Markdown to pre-defined tags. As a result, you obtain a website that can be published by any web server. Thus, you can easily manage your projects and focus more on content.
+
+💡 Jekyll is integrated with GitHub for generating GitHub Pages without the need to install Jekyll on your computer.
 
 ## How to create a Github Pages site using Jekyll?
 
