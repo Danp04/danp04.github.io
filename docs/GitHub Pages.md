@@ -23,7 +23,7 @@ In this section you will find out how to quickly create a website directly from 
 
 ❗ **ATTENTION**: username must be the same as the name of your GitHub account.
 
-![New_repo](/assets/images/screen_1)
+![New_repo](/assets/images/screen_1.jpg)
 
 
 
