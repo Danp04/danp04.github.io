@@ -29,7 +29,7 @@ How to create Github Pages public repository?
 
    ![GDC](../assets/images/screen_2.jpg)
 6. As notifications concerning access to your repository by GitHub Desktop Client appear, approve them.
-7. Clone your repository to the selected location and name the folder the same as your repository.
+7. Clone the repository to a selected location and name the folder the same as your repository.
 
    **📝 Note:** It is recommended to use the shortest path, for example *C: Git*, as the repository is to be created inside the folder you selected for your local path.
 8. Open your repository in Visual Studio Code.
