@@ -28,7 +28,13 @@ In this section you will find out how to quickly create a website directly from 
 5. As you create your repository, open it on Github Desktop Client.
 
    ![GDC](../assets/images/screen_2.jpg)
+6. As notifications concerning access to your repository by GitHub Desktop Client appear, approve them.
+7. Clone your repository to the selected location and name the folder the same as your repository.
 
+   **📝 Note:** It is recommended to use the shortest path, for example *C: Git*, as the repository is to be created inside the folder you selected for your local path.
+8. Open your repository in Visual Studio Code.
+
+   ℹ️ **Tip**: As notification concerning Git installation appears, install it. 
 
 
 
