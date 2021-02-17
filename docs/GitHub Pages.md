@@ -21,9 +21,12 @@ In this section you will find out how to quickly create a website directly from 
 2. Select Create a new public repository
 3. Name the repository as username.github.io
 
-❗ **ATTENTION**: username must be the same as the name of your GitHub account
+❗ **ATTENTION**: username must be the same as the name of your GitHub account.
 
-![ID](assets/images/cap1)
+![New_repo](/assets/images/screen_1)
+
+
+
 
 
 
