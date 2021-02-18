@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visual Studio Code basics
+title: Visual Studio Code Basics
 nav_order: 2
 has_children: false
 ---

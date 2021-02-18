@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Markdown basics
+title: Markdown Basics
 nav_order: 3
 has_children: false
 ---

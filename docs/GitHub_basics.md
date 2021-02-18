@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GitHub basics
+title: GitHub Basics
 nav_order: 4
 has_children: false
 ---
