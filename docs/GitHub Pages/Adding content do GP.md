@@ -18,9 +18,9 @@ This is just an example how to quickly add your content in HTML to GitHub Pages 
 4. Open GitHub Desktop Client to add your file to the server.
 5. As the name of your file is automatically created select:
 
-    A **Commit to master**
+    A. **Commit to master**
 
-    B **Publish branch**.
+    B. **Publish branch**.
 
    ![S7](../../assets/images/screen_7.jpg)
 
