@@ -74,6 +74,10 @@ To copy just-the-docs template to your repository follow the steps below:
 
    ![S17](../../assets/images/screen_17.jpg)
 
+3. Set the structure for your content in your repository.
+
+   ![S18](../../assets/images/screen_18.jpg)
+
 
 
 ## How to add content to your Github Pages site using Jekyll?
