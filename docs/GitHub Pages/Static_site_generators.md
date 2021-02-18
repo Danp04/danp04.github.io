@@ -69,7 +69,7 @@ To copy just-the-docs template to your repository follow the steps below:
    ![S16](../../assets/images/screen_16.jpg)
 
 ### How to create a simple site?
-1. Open your repository in VS Code
+1. Open your repository in VS Code.
 2. Add *just-the-docs* folder selecting **File** in the top left corner and **Add folder to workspace**.
 
    ![S17](../../assets/images/screen_17.jpg)
