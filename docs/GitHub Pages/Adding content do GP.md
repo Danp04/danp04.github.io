@@ -25,11 +25,17 @@ This is just an example how to quickly add your content in HTML to GitHub Pages 
    ![S7](../../assets/images/screen_7.jpg)
 
 6. To see if you uploaded the file properly, go to your repository on the server.
-7. In the bottom right cornerv of your repository check if the section **Environments** is active.
+7. In the bottom right corner of your repository check if the section **Environments** is active.
 
    ![S8](../../assets/images/screen_8.jpg)
 
-8. To view your deployments click on **github-pages**.
+8. To view your deployment select **github-pages** and **view deployment**.
+
+   ![S9](../../assets/images/screen_9.jpg)
+
+9. In the web browser enter your full user's name: *username.github.io* and check if your simple web page works.✌️
+
+   ![S10](../../assets/images/screen_10.jpg)
 
 
 
