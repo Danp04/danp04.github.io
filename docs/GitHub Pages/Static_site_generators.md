@@ -90,7 +90,7 @@ To copy just-the-docs template to your repository follow the steps below:
    ![S20](../../assets/images/screen_20.jpg)
 
 - each chapter or file with appropriate structure included at the top.
--  
+
    ![S21](../../assets/images/Screen_21.jpg)
 
 
