@@ -92,22 +92,21 @@ To copy just-the-docs template to your repository follow the steps below:
 - each chapter or file with appropriate structure included at the top.
 
    ![S21](../../assets/images/Screen_21.jpg)
-
+   
 5. As you set the structure and add some content, open Github Desktop Client, fill in the **Summary** box and perform the standard procedure:
 -   **Commit to master**
 -   **Push origin**
 
 **📝 Note:** It is recommended to save files and make *commits* regularly to check deployments on the server.
 
-
 6. In the bottom right corner of your repository check if the section **Environments** is active.
 
    ![S8](../../assets/images/screen_8.jpg)
-
+   
 7. To view your deployment select **github-pages** and **view deployment**.
 
    ![S9](../../assets/images/screen_9.jpg)
-
+   
 8. In the web browser enter your full user's name: *username.github.io* and check if your simple web page works.✌️
 
    ![S22](../../assets/images/Screen_22.jpg)
