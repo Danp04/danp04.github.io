@@ -23,6 +23,12 @@ Static site generator is a software which enables to create a web page from in-b
 💡 Jekyll is integrated with GitHub for generating GitHub Pages without the need to install Jekyll on your computer.
 
 ## How to create a Github Pages site using Jekyll?
+1. Open the previously created file *index.html* and rename it into index.md to start working in Markdown.
+2. In Github Desktop Client fill in the **Summary** box and perform the standard procedure:
+-   Commit to master
+-   Fetch origin
+
+3. In the server as you sign in to GitHub.com you can see your changed file.   **📝 Note:** the file *index.md* is your starting point for the formation of the web page.
 
 ## How to add content to your Github Pages site using Jekyll?
 
