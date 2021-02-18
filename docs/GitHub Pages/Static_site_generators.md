@@ -79,9 +79,15 @@ To copy just-the-docs template to your repository follow the steps below:
    ![S18](../../assets/images/screen_18.jpg)
  ℹ️ **Tip**: You can copy existing files from the second repository and adjust its content to your needs.
 
-4. Start with setting *_config.yml* file as your base.
+4. Start with setting: 
+
+- *_config.yml* file as your base.
 
    ![S19](../../assets/images/screen_19.jpg)
+
+- main *index.md* file.
+
+   ![S20](../../assets/images/screen_20.jpg)
 
 
 
