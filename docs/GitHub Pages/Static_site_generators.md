@@ -29,7 +29,7 @@ Static site generator is a software which enables to create a web page from in-b
 1. Open the previously created file *index.html* and rename it into index.md to start working in Markdown.
 2. Add content written in Markdown.
 
-   ℹ️ **Tip**: If you already have a markdown file, copy its content to *index.md*
+   ℹ️ **Tip**: If you already have a markdown file, copy its content to *index.md*.
 3. In Github Desktop Client fill in the **Summary** box and perform the standard procedure:
 -   **Commit to master**
 -   **Push origin**
