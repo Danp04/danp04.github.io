@@ -23,12 +23,50 @@ Static site generator is a software which enables to create a web page from in-b
 💡 Jekyll is integrated with GitHub for generating GitHub Pages without the need to install Jekyll on your computer.
 
 ## How to create a Github Pages site using Jekyll?
-1. Open the previously created file *index.html* and rename it into index.md to start working in Markdown.
-2. In Github Desktop Client fill in the **Summary** box and perform the standard procedure:
--   Commit to master
--   Push origin
+### Getting started
 
-3. In the server as you sign in to GitHub.com you can see your changed file.   **📝 Note:** the file *index.md* is your starting point for the formation of the web page.
+
+1. Open the previously created file *index.html* and rename it into index.md to start working in Markdown.
+2. Add content written in Markdown.
+
+   ℹ️ **Tip**: If you already have a markdown file, copy its content to *index.md*
+3. In Github Desktop Client fill in the **Summary** box and perform the standard procedure:
+-   **Commit to master**
+-   **Push origin**
+
+3. In the server as you sign in to GitHub.com you can see your changed file.
+   **📝 Note:** the file *index.md* is your starting point for the formation of the web page.
+
+### Configuring Jekyll
+To start working with Jekyll you need to use appropriate template named just-the-docs. You can fully use it only when you make a copy to your repository.
+
+To copy just-the-docs template to your repository follow the steps below:
+1. In the top left corner on Github.com search for *just-the-docs* repository and open it.
+
+   ![S11](../../assets/images/screen_11.jpg)
+
+2. Copy the repository to your account using the command **fork**.
+
+   ![S12](../../assets/images/screen_12.jpg)
+
+
+3. In order to save it select :
+   
+-  **Code** and **Open with GitHub Desktop**.
+   ![S13](../../assets/images/screen_13.jpg)
+-  **Clone**
+
+   ![S14](../../assets/images/screen_14.jpg)
+
+   **📝 Note:** It is recommended to use the shortest path, for example *C: Git/just-the-docs*, as the repository is to be created inside the folder you selected for your local path.
+
+4. Select the option **For my own purposes** when the notification appears.
+
+   ![S15](../../assets/images/Screen_15.jpg)
+
+5. As you select **Current repository** in the top left corner check if you  saved just-the-docs template properly in your repository.
+
+   ![S16](../../assets/images/screen_16.jpg)
 
 ## How to add content to your Github Pages site using Jekyll?
 
