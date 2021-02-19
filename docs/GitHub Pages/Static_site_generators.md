@@ -30,7 +30,7 @@ Static site generator is a software which enables to create a web page from in-b
 2. Add content written in Markdown.
 
    ℹ️ **Tip**: If you already have a markdown file, copy its content to *index.md*.
-3. In Github Desktop Client fill in the **Summary** box and perform the standard procedure:
+3. In Github Desktop Client name the change the **Summary** box and perform the standard procedure:
 -   **Commit to master**
 -   **Push origin**
 
@@ -38,7 +38,7 @@ Static site generator is a software which enables to create a web page from in-b
    **📝 Note:** the file *index.md* is your starting point for the formation of the web page.
 
 ### Configuring Jekyll
-To start working with Jekyll you need to use appropriate template named just-the-docs. You can fully use it only when you make a copy to your repository.
+To start working with Jekyll you need to use appropriate template named *just-the-docs*. You can fully modify it only when you make a copy to your repository.
 
 To copy *just-the-docs* template to your repository follow the steps below:
 1. In the top left corner on Github.com search for *just-the-docs* repository and open it.
@@ -52,11 +52,11 @@ To copy *just-the-docs* template to your repository follow the steps below:
 
 3. In order to save it select :
    
-   -  **Code** and **Open with GitHub Desktop**.
+   - Firstly, **Code** and **Open with GitHub Desktop**.
    
    ![S13](../../assets/images/screen_13.jpg)
 
-   -  **Clone**
+   - Secondly, **Clone**
 
    ![S14](../../assets/images/screen_14.jpg)
 
@@ -92,9 +92,9 @@ To copy *just-the-docs* template to your repository follow the steps below:
    ![S21](../../assets/images/Screen_21.jpg)
 
 
-   ℹ️ **Tip**: You can copy existing files from the second repository and adjust its content to your needs.
+   ℹ️ **Tip**: You can copy existing files from the second repository and adjust its content to your needs. The structure containg *layout*, *title*, *nav_order* has to be included at the top of each file.
 
-4. As you set the files, open Github Desktop Client, name the change in the **Summary** box and perform the standard procedure:
+4. As you set the files, open Github Desktop Client, name the change in the **Summary** box and perform the standard actions:
    -   **Commit to master**
    -   **Push origin**
 
