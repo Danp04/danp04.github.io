@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 
-# How to add a file to GitHub Pages?
+## How to add a file to GitHub Pages?
 This is just an example how to quickly add your content in HTML to GitHub Pages in order to obtain a web page. In the next sections you will find out how to work with Markdown files.
 1. Open your new repository in VS Code and add a new file.
    ![S3](../../assets/images/screen_3.jpg)
