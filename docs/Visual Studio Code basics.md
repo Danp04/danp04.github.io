@@ -27,15 +27,15 @@ Perform the following actions to start working:
 
 ## Frequently used commands
 Below you can find the important software settings which help properly manage your work in VS Code:
-- To display commands on your keyboard select *Shift+Ctrl+p* (on Windows) or *Cmd+p* (on Mac).
-- To display whitespace symbols: in the main panel select **View** > **RenderWhitespace**.
-- Document navigation: select *Outline* or *Shift+Ctrl+P* on your keyboard.
-- To display suggestion: on your keyboard select *Ctrl+Space*.
-- To format suggestions: on your keyboard select *Shift+Ctrl+P* > **Preferences: ConfigureLanguage SpecificSettings** > **Markdown** > "**editor.suggest.showWords**" and change *true* into *false*.
+- To display commands, using your keyboard select *Shift+Ctrl+p* (on Windows) or *Cmd+p* (on Mac).
+- To display whitespace symbols select in the main panel: **View** > **RenderWhitespace**.
+- Document navigation: select *Outline* or *Shift+Ctrl+P* using your keyboard.
+- To display suggestion select *Ctrl+Space* on your keyboard.
+- To format suggestions: using your keyboard select *Shift+Ctrl+P* > **Preferences: ConfigureLanguage SpecificSettings** > **Markdown** > "**editor.suggest.showWords**" and change *true* into *false*.
 
 ## Extensions
 There are many extensions available in VS Code used to facilitate your work. To create automatic table of contents use the extension **Markdown All In One**. 
 
 1. To install the extension, select **View**, next **Extensions**, then **Markdown All In One** and install it.
-2. To create a table of contents, select *Shift+Ctrl+P* on your keyboards and *Create Table of Contents*.
-3. To format your document, select *Shift+Ctrl+P* on your keyboards and *Format Document*.
+2. To create a table of contents, select *Shift+Ctrl+P* on your keyboards and **Create Table of Contents**.
+3. To format your document, select *Shift+Ctrl+P* on your keyboards and **Format Document**.
