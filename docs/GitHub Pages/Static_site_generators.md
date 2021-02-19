@@ -57,7 +57,7 @@ To copy *just-the-docs* template to your repository follow the steps below:
    
    ![S13](../../assets/images/screen_13.jpg)
 
-   - Secondly, **Clone** to save it in a selected location.
+   - Secondly, **Clone** to save it in the selected location.
 
    ![S14](../../assets/images/screen_14.jpg)
 
