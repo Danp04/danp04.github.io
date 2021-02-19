@@ -53,7 +53,9 @@ To copy *just-the-docs* template to your repository follow the steps below:
 3. In order to save it select :
    
    -  **Code** and **Open with GitHub Desktop**.
+   
    ![S13](../../assets/images/screen_13.jpg)
+
    -  **Clone**
 
    ![S14](../../assets/images/screen_14.jpg)
@@ -65,7 +67,7 @@ To copy *just-the-docs* template to your repository follow the steps below:
 
    ![S15](../../assets/images/Screen_15.jpg)
 
-5. As you select **Current repository** in the top left corner check if you  saved just-the-docs template properly in your repository.
+5. As you select **Current repository** in the top left corner check if you saved *just-the-docs* template properly in your repository.
 
    ![S16](../../assets/images/screen_16.jpg)
 
@@ -75,9 +77,7 @@ To copy *just-the-docs* template to your repository follow the steps below:
 
    ![S17](../../assets/images/screen_17.jpg)
 
- ℹ️ **Tip**: You can copy existing files from the second repository and adjust its content to your needs.
-
-3. Start with setting: 
+3. Using the structure below, start with setting: 
 
    - *_config.yml* file as your base.
 
@@ -87,28 +87,28 @@ To copy *just-the-docs* template to your repository follow the steps below:
 
    ![S20](../../assets/images/screen_20.jpg)
 
-   - each chapter or file with appropriate structure included at the top.
+   - file or chapter with the structure included at the top of each.
 
    ![S21](../../assets/images/Screen_21.jpg)
 
 
    ℹ️ **Tip**: You can copy existing files from the second repository and adjust its content to your needs.
 
-4. As you add some content, open Github Desktop Client, fill in the **Summary** box and perform the standard procedure:
+4. As you add some content, open Github Desktop Client, name the change in the **Summary** box and perform the standard procedure:
    -   **Commit to master**
    -   **Push origin**
 
    **📝 Note:** It is recommended to save files and make *commits* regularly to check deployments on the server.
 
-6. In the bottom right corner of your repository on the server check if the section **Environments** is active.
+5. In the bottom right corner of your repository on the server check if the section **Environments** is active.
 
    ![S8](../../assets/images/screen_8.jpg)
    
-7. To view your deployment select **github-pages** and **view deployment**.
+6. To view your deployment select **github-pages** and **view deployment**.
 
    ![S9](../../assets/images/screen_9.jpg)
    
-8. In the web browser enter your full user's name: *username.github.io* and check if your simple web page works.✌️
+7. In the web browser enter your full user's name: *username.github.io* and check if your simple web page works.✌️
 
    ![S22](../../assets/images/Screen_22.jpg)
 
@@ -117,7 +117,20 @@ To copy *just-the-docs* template to your repository follow the steps below:
 ## How to add content to your Github Pages site using Jekyll?
 As you configure your base *index.md* and *_config.yml*, and upload changes to GitHub, you can now focus more on the structure of your documentation.
 
+1. Create:
+   - Folder **docs** for your Markdown files and chapters.
+   - Folder **_includes** for your SVG files.
+   - Folder **assets** and sub-folder **images** for JPG,PNG files.
+
+   **📝 Note:** You have already had **index.md** which first file visible in Table of Contents and **_config.yml** which displays in the browser the overall web page with its title.
+
    ![S18](../../assets/images/screen_18.jpg)
+
+2. You can find more information in the links below:
+
+-   [Configuration](https://pmarsceill.github.io/just-the-docs/docs/configuration/)
+-   [Navigation](https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/)
+-   [Design](https://pmarsceill.github.io/just-the-docs/docs/customization/)
 
 
 
