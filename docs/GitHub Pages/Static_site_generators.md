@@ -75,12 +75,9 @@ To copy *just-the-docs* template to your repository follow the steps below:
 
    ![S17](../../assets/images/screen_17.jpg)
 
-3. Set the structure for your content in your repository.
-
-   ![S18](../../assets/images/screen_18.jpg)
  ℹ️ **Tip**: You can copy existing files from the second repository and adjust its content to your needs.
 
-4. Start with setting: 
+3. Start with setting: 
 
    - *_config.yml* file as your base.
 
@@ -93,10 +90,13 @@ To copy *just-the-docs* template to your repository follow the steps below:
    - each chapter or file with appropriate structure included at the top.
 
    ![S21](../../assets/images/Screen_21.jpg)
-   
-5. As you set the structure and add some content, open Github Desktop Client, fill in the **Summary** box and perform the standard procedure:
--   **Commit to master**
--   **Push origin**
+
+
+   ℹ️ **Tip**: You can copy existing files from the second repository and adjust its content to your needs.
+
+4. As you add some content, open Github Desktop Client, fill in the **Summary** box and perform the standard procedure:
+   -   **Commit to master**
+   -   **Push origin**
 
    **📝 Note:** It is recommended to save files and make *commits* regularly to check deployments on the server.
 
@@ -115,6 +115,9 @@ To copy *just-the-docs* template to your repository follow the steps below:
 
 
 ## How to add content to your Github Pages site using Jekyll?
+As you configure your base *index.md* and *_config.yml*, and upload changes to GitHub, you can now focus more on the structure of your documentation.
+
+   ![S18](../../assets/images/screen_18.jpg)
 
 
 
