@@ -22,7 +22,7 @@ Perform the following actions to start working:
 
 
 1. Download Visual Studio Code: [VS Code](https://code.visualstudio.com/).
-2. Open a **new file** and save as **Markdown (.md)** on your computer in a selected location.
+2. Open a **new file** and save as **Markdown (.md)** on your computer in the selected location.
 3. Open your file in VS Code. Use preview function selecting *open preview to the side* in the top right corner. 
 
 ## Frequently used commands
