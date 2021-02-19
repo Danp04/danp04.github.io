@@ -59,7 +59,7 @@ To copy *just-the-docs* template to your repository follow the steps below:
    ![S14](../../assets/images/screen_14.jpg)
 
    **📝 Note:** It is recommended to use the shortest path, for example *C: Git/just-the-docs*, as the repository is to be created inside the folder you selected for your local path.
-   
+
 4. Select the option **For my own purposes** when the notification appears.
 
    ![S15](../../assets/images/Screen_15.jpg)
