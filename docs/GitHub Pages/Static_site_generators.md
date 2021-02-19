@@ -40,7 +40,7 @@ Static site generator is a software which enables to create a web page from in-b
 ### Configuring Jekyll
 To start working with Jekyll you need to use appropriate template named just-the-docs. You can fully use it only when you make a copy to your repository.
 
-To copy just-the-docs template to your repository follow the steps below:
+To copy *just-the-docs* template to your repository follow the steps below:
 1. In the top left corner on Github.com search for *just-the-docs* repository and open it.
 
    ![S11](../../assets/images/screen_11.jpg)
@@ -59,7 +59,7 @@ To copy just-the-docs template to your repository follow the steps below:
    ![S14](../../assets/images/screen_14.jpg)
 
    **📝 Note:** It is recommended to use the shortest path, for example *C: Git/just-the-docs*, as the repository is to be created inside the folder you selected for your local path.
-
+   
 4. Select the option **For my own purposes** when the notification appears.
 
    ![S15](../../assets/images/Screen_15.jpg)
