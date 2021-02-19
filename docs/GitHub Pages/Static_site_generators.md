@@ -127,7 +127,7 @@ As you configure your base *index.md* and *_config.yml*, and upload changes to G
 
    ![S18](../../assets/images/screen_18.jpg){: style="width: 500px;"}
    
-2. In the web browser enter your full user's name: *username.github.io* and check if your changes are visible.✌️
+2. In the web browser enter your full user's name: *username.github.io* and check if your changes are visible. If not, reload the site.✌️
 
 3. You can find more information in the links below:
 
