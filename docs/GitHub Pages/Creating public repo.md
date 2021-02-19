@@ -15,6 +15,7 @@ nav_order: 1
    ![New_repo](/assets/images/screen_1.jpg)
 4. Mark **Public** and select **Create repository.**
 5. As you create your repository, open it on Github Desktop Client.
+
    ![GDC](/assets/images/screen_2.jpg)
 6. As notifications concerning access to your repository by GitHub Desktop Client appear, approve them.
 7. Clone the repository to the selected location and name the folder the same as your repository.
