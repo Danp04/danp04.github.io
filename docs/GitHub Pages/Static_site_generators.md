@@ -100,7 +100,7 @@ To copy *just-the-docs* template to your repository follow the steps below:
 
    **📝 Note:** It is recommended to save files and make *commits* regularly to check deployments on the server.
 
-6. In the bottom right corner of your repository check if the section **Environments** is active.
+6. In the bottom right corner of your repository on the server check if the section **Environments** is active.
 
    ![S8](../../assets/images/screen_8.jpg)
    
