@@ -31,10 +31,11 @@ Static site generator is a software which enables to create a web page from in-b
 
    ℹ️ **Tip**: If you already have a markdown file, copy its content to *index.md*.
 3. In Github Desktop Client name the change in the **Summary** box and perform the standard actions:
--   **Commit to master**
--   **Push origin**
+   -   **Commit to master**
+   -   **Push origin**
 
-3. In the server as you sign in to GitHub.com you can see your changed file.
+4. In the server as you sign in to GitHub.com you can see your changed file.
+
    **📝 Note:** the file *index.md* is your starting point for the formation of the web page.
 
 ### Configuring Jekyll
