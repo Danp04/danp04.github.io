@@ -63,7 +63,7 @@ In order to invite a collaborator to your repository:
 2. Invite your Vistula educators typing the user’s name account: *martab0, db4rr*.
 3. Wait for acceptance.
 
-**📝 Note:** You can receive the notifications via e-mail as so check your box regularly.
+**📝 Note:** You can receive the notifications via e-mail so check your box regularly.
 
 ## The Git’s important commands
 
