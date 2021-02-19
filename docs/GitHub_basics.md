@@ -59,9 +59,11 @@ As you create your first repository on GitHub Desktop, keep in mind that it only
 
 In order to invite a collaborator to your repository:
 
-1. Select **Settings** and **Manage access**.
+1. On the server select **Settings** and **Manage access**.
 2. Invite your Vistula educators typing the user’s name account: *martab0, db4rr*.
 3. Wait for acceptance.
+
+**📝 Note:** You can receive the notifications via e-mail as so check your box regularly.
 
 ## The Git’s important commands
 
