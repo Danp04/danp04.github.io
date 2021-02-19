@@ -30,7 +30,7 @@ Static site generator is a software which enables to create a web page from in-b
 2. Add content written in Markdown.
 
    ℹ️ **Tip**: If you already have a markdown file, copy its content to *index.md*.
-3. In Github Desktop Client name the change the **Summary** box and perform the standard procedure:
+3. In Github Desktop Client name the change in the **Summary** box and perform the standard actions:
 -   **Commit to master**
 -   **Push origin**
 
@@ -92,7 +92,7 @@ To copy *just-the-docs* template to your repository follow the steps below:
    ![S21](../../assets/images/Screen_21.jpg)
 
 
-   ℹ️ **Tip**: You can copy existing files from the second repository and adjust its content to your needs. The structure containg *layout*, *title*, *nav_order* has to be included at the top of each file.
+   ℹ️ **Tip**: You can copy existing files from the second repository and adjust its content to your needs. The structure containing *layout*, *title*, *nav_order* has to be included at the top of each file.
 
 4. As you set the files, open Github Desktop Client, name the change in the **Summary** box and perform the standard actions:
    -   **Commit to master**
