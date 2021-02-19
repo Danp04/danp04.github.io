@@ -7,7 +7,7 @@ has_children: false
 
 
 
-# Visual Studio Code basics
+# Visual Studio Code Basics
 {: .no_toc}
 
 ### Table of contents
