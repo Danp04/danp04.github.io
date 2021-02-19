@@ -22,8 +22,8 @@ Perform the following actions to start working:
 
 
 1. Download Visual Studio Code: [VS Code](https://code.visualstudio.com/).
-2. Open a **new file** and save as **Markdown (.md)** on your computer in the selected location.
-3. Open your file in VS Code. Use preview function selecting *open preview to the side* in the top right corner. 
+2. Open **New File** in the top left corner and save it as **Markdown (.md)** on your computer in the selected location.
+3. Open your file in VS Code to start writing. Use preview function selecting *open preview to the side* in the top right corner. 
 
 ## Frequently used commands
 Below you can find the important software settings which help properly manage your work in VS Code:
