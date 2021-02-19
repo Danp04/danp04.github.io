@@ -123,15 +123,17 @@ As you configure your base *index.md* and *_config.yml*, and upload changes to G
    - Folder **_includes** for your SVG files.
    - Folder **assets** and sub-folder **images** for JPG,PNG files.
 
-   **📝 Note:** You have already had *index.md* which is the first file visible in Table of Contents and *_config.yml* which displays the overall web page with its title in the browser. 
+   **📝 Note:** You already have *index.md* which is the first file visible in Table of Contents and *_config.yml* which displays the overall web page with its title in the browser. 
 
-![S18](../../assets/images/screen_18.jpg){: style="width: 500px;"}
+   ![S18](../../assets/images/screen_18.jpg){: style="width: 500px;"}
+   
+2. In the web browser enter your full user's name: *username.github.io* and check if your changes are visible.✌️
 
-1. You can find more information in the links below:
+3. You can find more information in the links below:
 
--   [Configuration](https://pmarsceill.github.io/just-the-docs/docs/configuration/)
--   [Navigation](https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/)
--   [Design](https://pmarsceill.github.io/just-the-docs/docs/customization/)
+   -   [Configuration](https://pmarsceill.github.io/just-the-docs/docs/configuration/)
+   -   [Navigation](https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/)
+   -   [Design](https://pmarsceill.github.io/just-the-docs/docs/customization/)
 
 
 
