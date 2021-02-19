@@ -5,7 +5,7 @@ nav_order: 3
 has_children: false
 ---
 
-# Markdown basics
+# Markdown Basics
 {: .no_toc}
 
 Markdown is a simple markup language that was created to simplify text formatting. Simple tags allow you to bold or italicize words and give them other formatting features defined in HTML.
