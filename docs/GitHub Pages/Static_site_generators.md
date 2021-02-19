@@ -52,9 +52,9 @@ To copy *just-the-docs* template to your repository follow the steps below:
 
 3. In order to save it select :
    
--  **Code** and **Open with GitHub Desktop**.
+   -  **Code** and **Open with GitHub Desktop**.
    ![S13](../../assets/images/screen_13.jpg)
--  **Clone**
+   -  **Clone**
 
    ![S14](../../assets/images/screen_14.jpg)
 
