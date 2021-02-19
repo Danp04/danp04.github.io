@@ -8,9 +8,8 @@ has_children: false
 # Review online via Git
 {: .no_toc}
 
-                         🔜COMING SOON
 
-![Under_Construction](../assets/images/Screen_24.jpg)
+![Under_Construction](../assets/images/THE%20SITE%20IS%20UNDER%20CONSTRUCTION!.png)
 
 
 
