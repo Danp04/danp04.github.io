@@ -34,7 +34,7 @@ Static site generator is a software which enables to create a web page from in-b
    -   **Commit to master**
    -   **Push origin**
 
-4. In the server as you sign in to GitHub.com you can see your changed file.
+4. On the server as you sign in to GitHub.com you can see your changed file.
 
    **📝 Note:** the file *index.md* is your starting point for the formation of the web page.
 
