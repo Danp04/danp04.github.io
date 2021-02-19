@@ -122,7 +122,7 @@ As you configure your base *index.md* and *_config.yml*, and upload changes to G
    - Folder **_includes** for your SVG files.
    - Folder **assets** and sub-folder **images** for JPG,PNG files.
 
-   **📝 Note:** You have already had **index.md** which is the first file visible in Table of Contents and **_config.yml** which displays the overall web page with its title in the browser 
+   **📝 Note:** You have already had **index.md** which is the first file visible in Table of Contents and **_config.yml** which displays the overall web page with its title in the browser. 
 
    ![S18](../../assets/images/screen_18.jpg)
 
