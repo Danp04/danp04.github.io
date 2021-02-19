@@ -125,7 +125,7 @@ As you configure your base *index.md* and *_config.yml*, and upload changes to G
 
    **📝 Note:** You have already had *index.md* which is the first file visible in Table of Contents and *_config.yml* which displays the overall web page with its title in the browser. 
 
-![S18](../../assets/images/screen_18.jpg) {: style="width: 550px;"}
+![S18](../../assets/images/screen_18.jpg) {: style="width:550px;"}
 
 2. You can find more information in the links below:
 
