@@ -94,7 +94,7 @@ To copy *just-the-docs* template to your repository follow the steps below:
 
    ℹ️ **Tip**: You can copy existing files from the second repository and adjust its content to your needs.
 
-4. As you add some content, open Github Desktop Client, name the change in the **Summary** box and perform the standard procedure:
+4. As you set the files, open Github Desktop Client, name the change in the **Summary** box and perform the standard procedure:
    -   **Commit to master**
    -   **Push origin**
 
