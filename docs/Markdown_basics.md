@@ -31,6 +31,32 @@ Below you can find basic syntax to produce your content. For more information us
 |Emphasis|wrap asterisks (*) and underscores (_) before a word or sentence|
 |Images|can be inline or reference, for example: ! [text] (/path/to/img.jpg)|
 
+## Markdown elements in use
+
+### Headings
+### Paragraphs
+A paragraph does not require special syntax in Markdown. Just several lines of written text
+### Lists
+To create a numbered list, start with 1. or 1) and click enter. The numbers will appear in order.
+
+To create a bullet list, start with *
+
+### Blockquotes
+To create a blockquote, insert >
+### Links
+An inline link consists of [text] followed by (file_name).
+This is an example of link: [ID] (http://example.com/)
+
+### Emphasis
+To format text as **bold**, enclose it in two asteriks
+
+To format text as *italic*, enclose it in a single asteriks
+
+To format text as ***bold and italic*** use triple asteriks
+### Images
+To insert image, use ![text] followed by (/path/to/img.jpg)
+
+
 
 ## More information
 [Markdown-help](https://daringfireball.net/projects/markdown/)

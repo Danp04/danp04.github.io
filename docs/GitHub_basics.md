@@ -65,7 +65,7 @@ In order to invite a collaborator to your repository:
 
 **📝 Note:** You can receive the notifications via e-mail so check your box regularly.
 
-## The Git’s important commands
+## Important commands in Git
 
 In the table below you can find useful commands being used on GitHub and GitHub Desktop. Familiarize with them to properly manage your workflow, add content, or make changes.
 
