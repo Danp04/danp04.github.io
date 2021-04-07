@@ -39,7 +39,9 @@ Static site generator is a software which enables to create a web page from in-b
    **📝 Note:** the file *index.md* is your starting point for the formation of the web page.
 
 ### Configuring Jekyll
-To start working with Jekyll you need to use appropriate template named *just-the-docs*. You can fully modify it only when you make a copy to your repository.
+To start working you need to use appropriate template. Select the theme *just-the-docs*. You can fully modify it only when you make *a copy* to your repository.
+
+   **📝 Note:** Jekyll has an extensive theme selection system. You can work on a copy of already exisiting template or develop your own. Thanks to *just-the-docs* template you will focus more on the quality of your writing. 
 
 To copy *just-the-docs* template to your repository follow the steps below:
 1. In the top left corner on Github.com search for *just-the-docs* repository and open it.
