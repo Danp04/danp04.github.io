@@ -8,6 +8,7 @@ has_children: false
 
 
 # Visual Studio Code Basics
+Visual Studio code is a free coding editor available for Windows, macOS or Linux.
 {: .no_toc}
 
 ### Table of contents
